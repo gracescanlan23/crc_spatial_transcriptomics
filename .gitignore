@@ -1,0 +1,59 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.pytest_cache/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environments
+.env
+.venv/
+venv/
+env/
+
+# Conda
+.conda/
+
+# VS Code
+.vscode/
+
+# Raw genomic data
+data/raw/*
+!data/raw/.gitkeep
+
+# Processed large data
+data/processed/*
+!data/processed/.gitkeep
+
+# Common genomics/data files
+*.fastq
+*.fastq.gz
+*.fq
+*.fq.gz
+*.bam
+*.bai
+*.sam
+*.h5
+*.h5ad
+*.loom
+*.mtx
+*.mtx.gz
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+
+# R files if used later
+.Rhistory
+.RData
+
+# Office temp files
+~$*
+
+# gitignore initially made with assisstance from ChatGPT-5.6
