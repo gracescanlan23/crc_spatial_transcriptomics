@@ -1,0 +1,14 @@
+name: crc_spatial
+channels:
+  - defaults
+dependencies:
+  - python=3.13
+  - matplotlib
+  - jupyterlab
+  - pandas
+  - scipy
+  - scanpy
+  - scikit-learn
+  - numpy
+  - ipykernel
+prefix: /usr/local/Caskroom/miniconda/base/envs/crc_spatial
