@@ -1,4 +1,4 @@
-# Integrative Single-Cell and Spatial Transcriptomic Analysis of Colorectal Cancer
+# Benchmarking Spatial Gene-Expression Imputation Methods Through Integration of Single-Cell and Spatial Transcriptomics in Colorectal Cancer
 ## Overview
 ## Research Question
 ## Specific Aims

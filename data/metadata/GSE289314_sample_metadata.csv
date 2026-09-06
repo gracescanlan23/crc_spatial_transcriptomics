@@ -1,0 +1,15 @@
+gsm,file_label,patient_id,tissue_site,condition,sample_type
+GSM8788893,CRC1T,Patient1,colon,tumor,colon_tumor
+GSM8788894,CRC1N,Patient1,colon,paracancerous,colon_paracancerous
+GSM8788895,CA,Patient2,colon,tumor,colon_tumor
+GSM8788896,N,Patient2,colon,paracancerous,colon_paracancerous
+GSM8788897,CRC2T,Patient3,colon,tumor,colon_tumor
+GSM8788898,CRC2N,Patient3,colon,paracancerous,colon_paracancerous
+GSM8788899,Patient4_T,Patient4,colon,tumor,colon_tumor
+GSM8788900,Patient4_N,Patient4,colon,paracancerous,colon_paracancerous
+GSM8788901,changT,Patient5,colon,tumor,colon_tumor
+GSM8788902,changN,Patient5,colon,paracancerous,colon_paracancerous
+GSM8788903,ganT,Patient5,liver,tumor,liver_tumor
+GSM8788904,ganN,Patient5,liver,paracancerous,liver_paracancerous
+GSM8788905,Patient6_T,Patient6,colon,tumor,colon_tumor
+GSM8788906,Patient6_N,Patient6,colon,paracancerous,colon_paracancerous

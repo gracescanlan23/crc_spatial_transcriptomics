@@ -1,0 +1,4 @@
+gsm,patient_id,tissue_site,condition,n_cells,median_genes_detected,median_mt_fraction
+GSM8788895,Patient2,colon,tumor,4136,1306.0,0.01437959082932163
+GSM8788899,Patient4,colon,tumor,6282,1008.0,0.014734161332860804
+GSM8788905,Patient6,colon,tumor,3967,920.0,0.01399107708869654
