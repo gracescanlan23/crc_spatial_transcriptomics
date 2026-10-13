@@ -1,0 +1,12 @@
+Metric,Value
+Original cells,647524.0
+Cells after QC,627550.0
+Cells removed,19974.0
+Percentage retained,96.92
+Measured genes,325.0
+Minimum transcripts threshold,10.0
+Minimum genes threshold,5.0
+Median transcripts before QC,65.0
+Median transcripts after QC,67.0
+Median genes before QC,32.0
+Median genes after QC,33.0
